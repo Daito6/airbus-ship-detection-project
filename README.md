@@ -3,7 +3,7 @@
 >### Task
 > The goal of the test project is to build a semantic segmentation model. Prefered tools and notes: **tf.keras, U-Net architecture** for neural network, **dice score, python**. 
 
->**Results of your work should contain next:**
+>**Results of work contain next:**
 >* code for model training and model inference separated into different .py files;
 >* readme.md file with complete description of solution;
 >* requirements.txt with required python modules;
